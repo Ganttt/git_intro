@@ -1,1 +1,2 @@
-Tom Gantt 
+Tom Gantt
+ganttt@oregonstate.edu
